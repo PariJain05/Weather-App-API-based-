@@ -21,6 +21,11 @@ A simple weather app that fetches real-time weather data using the OpenWeatherMa
 
 ## How to Use
 1. Clone the repository:
-   git clone https://github.com/PariJain05/Weather-App-API-based-
+git clone https://github.com/PariJain05/Weather-App-API-based-.git
+2. Open `index.html` in your browser
+3. Enter a city name and get live weather info!
+
+## API Used
+-[OpenWeatherMap API](https://openweathermap.org/api)
 
  
