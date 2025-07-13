@@ -28,4 +28,17 @@ git clone https://github.com/PariJain05/Weather-App-API-based-.git
 ## API Used
 -[OpenWeatherMap API](https://openweathermap.org/api)
 
+## Weather Icons & Features
+
+ Icon                                       Description                   
+ ![Search](weather%20images/Search.jpeg)    Search Icon       
+ ![Humidity](weather%20images/humidity.png) Humidity         
+ ![Wind Speed](weather%20images/wind.jpeg)  Wind Speed     
+ ![Rain](weather%20images/rain.jpeg)        Rain             
+ ![Clear](weather%20images/clear.jpeg)      Clear Sky        
+ ![Cloud](weather%20images/cloud.png)       Cloudy           
+ ![Mist](weather%20images/mist.png)         Mist             
+ ![Snow](weather%20images/snow.jpeg)        Snow
+ ![drizzle](weather%20images/drizzle.png)   Drizzle
+
  
